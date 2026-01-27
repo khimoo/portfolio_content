@@ -5,7 +5,7 @@ importance: 4
 category: ""
 tags: []
 created_at: "2025-12-29T03:30:38Z"
-updated_at: "2026-01-27T02:58:49Z"
+updated_at: "2026-01-27T09:12:43Z"
 ---
 [プログラミング](programming)
 [Linux](Linux)

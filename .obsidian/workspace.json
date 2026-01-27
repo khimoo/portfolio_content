@@ -1,84 +1,37 @@
 {
   "main": {
-    "id": "02f1fe0b8778726b",
+    "id": "3c69167fbf56460c",
     "type": "split",
     "children": [
       {
-        "id": "38fca810e9f9e8ce",
+        "id": "ddc8f506111192bd",
         "type": "tabs",
         "children": [
           {
-            "id": "db48dff8e671f506",
+            "id": "6676f515d06360e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gakuchika.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "gakuchika"
-            }
-          },
-          {
-            "id": "417722d773ab9b95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hobby.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hobby"
-            }
-          },
-          {
-            "id": "26db2f305b1f0602",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/template_article.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "template_article"
-            }
-          },
-          {
-            "id": "89dfbbf56682a8ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jijoden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "jijoden"
+              "title": "新規タブ"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b61bce38ae0aa9c7",
+    "id": "9248badcd7c4c585",
     "type": "split",
     "children": [
       {
-        "id": "b3a116ec60a6e41b",
+        "id": "f11f3ce475f10c6c",
         "type": "tabs",
         "children": [
           {
-            "id": "e8645d5b0c9292d9",
+            "id": "c0016a48f9f9601c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -91,7 +44,7 @@
             }
           },
           {
-            "id": "82bb9fffeb640288",
+            "id": "1eb214d19c17f393",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -108,7 +61,7 @@
             }
           },
           {
-            "id": "220e2488deee0c18",
+            "id": "0ce88421307041de",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -124,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "98fc6393dff71aa9",
+    "id": "4e16d7edcf148660",
     "type": "split",
     "children": [
       {
-        "id": "04231c837bf81f40",
+        "id": "e0d3e8a540335349",
         "type": "tabs",
         "children": [
           {
-            "id": "7c360b533d56359c",
+            "id": "ce4243b328560586",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about-khimoo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "about-khimooへのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
-            "id": "fe49dd954ea19e12",
+            "id": "a642b80d92310f37",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about-khimoo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "about-khimooからのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           },
           {
-            "id": "7280d9b173395b8a",
+            "id": "a49ffa84da16007f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -180,7 +131,7 @@
             }
           },
           {
-            "id": "0998a05588f5c443",
+            "id": "535d255db72890d3",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -194,70 +145,37 @@
             }
           },
           {
-            "id": "5bc2c1637f8382d5",
+            "id": "7b906b40d415bcf3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "about-khimoo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "about-khimooのアウトライン"
-            }
-          },
-          {
-            "id": "e114d694f78d2996",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "アウトライン"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "89dfbbf56682a8ae",
-  "lastOpenFiles": [
-    "Templates/template_article.md",
-    "jijoden.md",
-    "jijoden.md",
-    "hobby.md",
-    "about-khimoo.md",
-    "gakuchika.md",
-    "continuum_theory.md",
-    "drawing.md",
-    "infinite_topology.md",
-    "myworks.md",
-    "provably-good-planar-mappings.md",
-    "programming.md",
-    "pitch-bend.md",
-    "Neovim.md",
-    "myblog.md",
-    "music.md",
-    "mini_farm.md",
-    "math.md",
-    "Linux.md"
-  ]
+  "active": "6676f515d06360e8",
+  "lastOpenFiles": []
 }
