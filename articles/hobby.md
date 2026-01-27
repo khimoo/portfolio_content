@@ -5,7 +5,8 @@ importance: 4
 category: ""
 tags: []
 created_at: "2025-12-29T03:30:38Z"
-updated_at: "2026-01-27T09:12:43Z"
+
+updated_at: "2026-01-27T11:50:20Z"
 ---
 [プログラミング](programming)
 [Linux](Linux)
@@ -13,3 +14,4 @@ updated_at: "2026-01-27T09:12:43Z"
 [家庭菜園](mini_farm)
 [絵](drawing)
 [音楽](music)
+[数学](math)
