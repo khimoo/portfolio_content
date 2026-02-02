@@ -4,8 +4,11 @@ home_display: false
 importance: 2
 tags:
   - 雑
-created_at: "2026-02-03T09:02:55Z"
-updated_at: "2026-02-03T12:13:51Z"
+  - 個人開発
+  - プログラミング
+  - 趣味
+created_at: "2026-02-03T06:02:55Z"
+updated_at: "2026-02-03T12:14:10Z"
 ---
 [リポジトリ](https://github.com/khimoo/typst-resume)
 
