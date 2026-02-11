@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "jijoden"
             }
+          },
+          {
+            "id": "9943500a2c112652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "continuum_theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "continuum_theory"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,8 +210,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd3af65ac1d323b6",
+  "active": "9943500a2c112652",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "continuum_theory.md",
+    "culture_shock_btwn_yamagata&tokyo.md",
+    "jijoden.md",
     "myblog.md",
     "provably-good-planar-mappings.md",
     "team-project.md",
@@ -206,15 +225,12 @@
     "hobby.md",
     "myworks.md",
     "math.md",
-    "continuum_theory.md",
     "typst-resume.md",
-    "culture_shock_btwn_yamagata&tokyo.md",
     "music.md",
     "drawing.md",
     "mini_farm.md",
     "Linux.md",
     "programming.md",
-    "jijoden.md",
     "pitch-bend.md",
     "universality.md",
     "tags-hub/個人開発.md",
@@ -224,7 +240,6 @@
     "abstraction.md",
     "Neovim.md",
     "jijoden.md~",
-    "conflict-files-obsidian-git.md",
     "Templates/template_article.md"
   ]
 }
