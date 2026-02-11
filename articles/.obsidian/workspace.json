@@ -210,13 +210,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e114d694f78d2996",
+  "active": "bb3361199761eca1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "jijoden.md",
+    "typst-resume.md",
+    "team-project.md",
     "universality.md",
     "culture_shock_btwn_yamagata&tokyo.md",
-    "jijoden.md",
     "Templates/template_article.md",
-    "conflict-files-obsidian-git.md",
     "Linux.md",
     "hobby.md",
     "programming.md",
