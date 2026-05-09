@@ -11,6 +11,6 @@ jobs:
       - name: Dispatch Event to Parent Repo
         uses: peter-evans/repository-dispatch@v2
         with:
-          token: ${{ secrets.PAT_TOKEN }} # Personal Access Tokenが必要
+          token: ${{ secrets.DISPATCH_TOKEN }}
           repository: khimoo/portfolio-page
           event-type: content-updated
